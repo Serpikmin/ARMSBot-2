@@ -1,4 +1,4 @@
-class ArmsPlayer:     # Cringe-ass class, please ignore
+class ArmsPlayer:     
     """
     A registered ARMS player.
     Has data for their friend code, region, main, and colour.
