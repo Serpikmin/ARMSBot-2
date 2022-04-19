@@ -1,7 +1,7 @@
 import os
-import discord                       # Look at all these imports baby
+import discord                      
 from PIL import ImageFont, Image, ImageDraw
-from armsplayer import ArmsPlayer    # This one is mine
+from armsplayer import ArmsPlayer   
 from discord.ext import commands
 from dotenv import load_dotenv
 from random import randint
